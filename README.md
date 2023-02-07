@@ -1,2 +1,2 @@
 # curso-javascript
-repo prueba de curso henry
+esto es una pruena de github
